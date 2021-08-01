@@ -1,8 +1,7 @@
-                              # lifeguard
-          Development of a service that enables emergency measures in connection
-                            with a nearby client within Golden Time
-                                
-              **School of Medical Information System, Shamyook University
+lifeguard
+Development of a service that enables emergency measures in connection with a nearby client within Golden Time
+                               
+School of Medical Information System, Shamyook University
 
 
  심정지 전체 발생률(인구 10 만 명 당) 57.1 %의 높은 심정지 발생률을 보이지만, 일반인 심폐소생술 시행은(인구 10 만 명 당) 21%의 낮은 심폐소생술 시행률을 보인다. 심폐소생술을 안 했을 경
