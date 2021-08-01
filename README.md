@@ -37,16 +37,16 @@
 표 6) 의무설치기관의 미신고에 대한 과태료
 보건복지부 자동심장충격기 설치 및 관리 지침[2018.05] 3 판
 
-[논문] 착한 사마리아인 의사가 되어야 하는가? (배현아)
-[논문] 일반인에 의한 심폐소생술 활성화 방안(김숙향)
-[논문] Analysis of response time for patient non-transport by 119 
-ambulance services (Kyung-Hee Kang , Jin-Ok Han)
-[논문] 응급의료체계의 현황과 문제점 (유인술)
-[논문] Future CPR or future system of care (이승준)
+[논문] 착한 사마리아인 의사가 되어야 하는가? (배현아)<br>
+[논문] 일반인에 의한 심폐소생술 활성화 방안(김숙향)<br>
+[논문] Analysis of response time for patient non-transport by 119 <br>
+ambulance services (Kyung-Hee Kang , Jin-Ok Han)<br>
+[논문] 응급의료체계의 현황과 문제점 (유인술)<br>
+[논문] Future CPR or future system of care (이승준)<br>
 [논문] Main results of Sudden Cardiac Arrest Survey(윤하정, 권
-윤형, 안주연, 김영택)
-[통계청] 심정지 전체 발생률/목격된 급성심정지 비율/급성
-심정지 목격 여부에 따른 생존율/일반인 심폐소생술 시행여
-부에 따른 생존율/일반인 심폐소생술 시행률 [맵 데이터] 
-공공데이터 (공공데이터 포탈)
+윤형, 안주연, 김영택)<br>
+[통계청] 심정지 전체 발생률/목격된 급성심정지 비율/급성<br>
+심정지 목격 여부에 따른 생존율/일반인 심폐소생술 시행여<br>
+부에 따른 생존율/일반인 심폐소생술 시행률 [맵 데이터] <br>
+공공데이터 (공공데이터 포탈)<br>
 [어플리케이션] 응급의료정보제공, 응급처치, 하트히어로
