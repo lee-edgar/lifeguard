@@ -49,3 +49,5 @@ ambulance services (Kyung-Hee Kang , Jin-Ok Han)<br>
 부에 따른 생존율/일반인 심폐소생술 시행률 [맵 데이터] <br>
 공공데이터 (공공데이터 포탈)<br>
 [어플리케이션] 응급의료정보제공, 응급처치, 하트히어로
+
+23.03.25 new view version
